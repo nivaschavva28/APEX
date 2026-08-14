@@ -1,0 +1,6 @@
+{
+  "name": "APEX",
+  "description": "Your AI companion for better code. Understand errors, find bugs, review your code and get help without leaving your coding workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
